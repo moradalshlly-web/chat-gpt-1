@@ -1,0 +1,17 @@
+{
+  "name": "moroai-01",
+  "version": "0.1.0",
+  "description": "moroai 01 - A Node.js web application",
+  "main": "core/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node core/index.js",
+    "dev": "node --watch core/index.js"
+  },
+  "keywords": ["moroai", "ai", "web"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
